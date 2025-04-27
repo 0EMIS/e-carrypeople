@@ -8,3 +8,4 @@ Super simple people carry script for everyone!
 
 # Requirements
 - ox_lib
+- ox_target
